@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-twitter-dark {
+  background-color: #151E29;
+}
+
+.bg-twitter-tint {
+  background-color: #8dafce;
+}
